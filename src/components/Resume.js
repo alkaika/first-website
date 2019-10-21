@@ -29,7 +29,7 @@ export default class Resume extends Component {
             <p style={{fontSize: 18}}>alanaspera@gmail.com</p>
             <a 
               target='_blank' 
-              href='https://www.google.com/'
+              href='https://alkaika-portfolio.netlify.com/'
               rel='noopener noreferrer'
             >
               <h5>
