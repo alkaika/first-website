@@ -50,6 +50,14 @@ export default class Resume extends Component {
                 Watched many freeCodeCamp tutorials & Youtube Coding Videos"
             />
             <Education 
+                startYear='March 2005'
+                endYear='March 2005'
+                schoolName='Client Service Administrator (CSA)'
+                schoolDescription="Competed the Client Service Administrator Course while serving on Active-Duty at PACAF/A4 Readiness Division.
+                Provided IT tech support for airmen in the division. Tasks included opening NIPRNET & SIPRNET accounts, maintaining
+                active directory accounts of airmen and for all PCs/Printers on the network."
+            />
+            <Education 
                 startYear={2016}
                 endYear={2017}
                 schoolName='University of Phoenix'
